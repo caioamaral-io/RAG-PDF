@@ -24,9 +24,9 @@ O objetivo é oferecer uma interface simples para consultas inteligentes em docu
 - Python 
 - LangChain
 - OpenAI Embeddings (necessita chave API)
-- Chroma (vetorização e banco de dados vetorial)
-- PyMuPDF (para carregar PDFs)
-- dotenv (para variáveis de ambiente)
+- Chroma 
+- PyMuPDF
+- dotenv 
 
 
 ## Como rodar   
