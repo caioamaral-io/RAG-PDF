@@ -21,8 +21,8 @@ O objetivo é oferecer uma interface simples para consultas inteligentes em docu
 
 ## Tecnologias utilizadas  
 
-- [Python](https://www.python.org/)  
-- [LangChain](https://github.com/hwchase17/langchain)  
+- Python 
+- LangChain
 - OpenAI Embeddings (necessita chave API)
 - Chroma (vetorização e banco de dados vetorial)
 - PyMuPDF (para carregar PDFs)
